@@ -24,7 +24,7 @@ The dataset used in this project is publicly available and contains radio freque
 
 ### Requirements
 
-To run the project locally, you will need the following Python libraries:
+To run the project locally, you will need Python 3.919 and the following Python libraries:
 - `tensorflow`
 - `scikit-learn`
 - `pandas`
